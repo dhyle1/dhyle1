@@ -12,7 +12,7 @@ I focus on **clean code and refactoring**.
 - Code that’s easy to reason about
 
 ## Currently
-- Informatics student studying AI/ML
+- Informatics student building ML and clean-code focused projects
 
 ## Contact
 - GitHub: open an issue / discussion
