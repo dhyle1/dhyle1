@@ -2,8 +2,8 @@
 
 I focus on **clean code and refactoring**.
 
-- Behavior-preserving refactors (no logic changes)
-- Readability, naming, structure
+- Refactoring for readability, structure, and maintainability
+- Clear naming and intentional code organization
 - Small, safe, incremental improvements
 
 ## What I value
